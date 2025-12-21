@@ -1,3 +1,3 @@
 === Custom Test Set Evaluation ===
-Top-1 Accuracy: 79.00%
-Top-5 Accuracy: 97.50%
+Top-1 Accuracy: 81.00%
+Top-5 Accuracy: 97.00%
