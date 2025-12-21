@@ -1,0 +1,3 @@
+Experiment 3C: CLIP Zero-Shot (GPT Descriptions)
+Top-1 Accuracy: 77.50%
+Top-5 Accuracy: 98.50%
