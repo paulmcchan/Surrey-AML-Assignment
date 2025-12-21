@@ -1,0 +1,3 @@
+Experiment 3B: CLIP Zero-Shot (Ensemble of 12 Prompts)
+Top-1 Accuracy: 88.00%
+Top-5 Accuracy: 100.00%
